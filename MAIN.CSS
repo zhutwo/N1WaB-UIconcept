@@ -1,0 +1,16 @@
+@font-face {
+  font-family: eightbit;
+  src: url(eightbit.ttf);
+}
+
+body
+{
+  background-color: black;
+}
+
+#stage
+{
+  background-color: black;
+  width: 1024px;
+  height: 640px;
+}
